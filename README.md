@@ -11,7 +11,7 @@ Lancer le jeu grace au .exe ou .jar.(Avec ou sans son a vous de choisir)
 <img src = "src/image/perso/perle.png">
 RED est mort ,un musée est cree ,mais il est hante ,en effet ,les pokemons de red ont ete empaille et transforme </br>
 En statut de pierre ,leurs ames ne sont pas en paix ....</br>
-Vous incarnerez donc Ash(Sahca Ketchum) <img src="src/image/perso/ash.png"> et vous devez aider ses pokemons a trouver le salut.</br>
+Vous incarnerez donc Ash(Sahca Ketchum) <img src="src/image/perso/ash.png"> et vous devez aider ses pokemons a trouver le salut en les defonçant.</br>
 Pour cela ,vous combattez leurs esprits un par un.
 
 #Les Pokemons
